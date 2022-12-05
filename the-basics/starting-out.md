@@ -15,4 +15,4 @@ Many good established resources exist that can help you move more quickly throug
   * FreeCodeCamp ([https://www.youtube.com/@freecodecamp/featured](https://www.youtube.com/@freecodecamp/featured)) has multiple videos that teach the Java language, several of which are targeted at complete beginners.
   * CodeAcademy offers free, project-based courses for Java: [https://www.codecademy.com/learn](https://www.codecademy.com/learn)
 * The official FTC Robot Controller docs provide info on every function in the library: [https://ftctechnh.github.io/ftc\_app/doc/javadoc/index.html](https://ftctechnh.github.io/ftc\_app/doc/javadoc/index.html)
-* _FIRST_ has an official tutorial for OnBot Java, Blocks, and Android Studio. However, they are a bit confusing and somewhat outdated: [https://github.com/FIRST-Tech-Challenge/FtcRobotController/wiki](https://github.com/FIRST-Tech-Challenge/FtcRobotController/wiki)
+* _FIRST_ has official tutorials for OnBot Java, Blocks, and Android Studio. However, they are a bit confusing and somewhat outdated: [https://github.com/FIRST-Tech-Challenge/FtcRobotController/wiki](https://github.com/FIRST-Tech-Challenge/FtcRobotController/wiki)
